@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html></html>
+<htmllang>="en-us"</htmllang>
+</head>
+<body>
+<h1>All About Me</h1>
+<p id="I love to play games. I play sports.">
+    <meta charset="utf-8">
+
+    <htmllang>= "en-US"</htmllang>
+<p id="I like computer science">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-_DRYn9--Qk?si=DBtl56x_MzZlkfUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<button><b></b></button>
+<input type=”text”>
+<input type="radio">
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+
+<table>"Norbit","Smurf","Adults"
+    "Brian Robbins", "Raja Gosnell","Dustin Guy Defa"</table>
+
+<head>
+    <link rel="stylesheet"
+          href="mystyle.css">
+</head>
+
+<head>
+    <title>HTML Styling</title>
+<body>
+<p>
+    <font size ="10" face="arial"color="red">
+
+    </font></p>
+    if <font size ="10" face="arial"color="red">
+        return true
+    if  <font size ="5" face="arial"color="green">
+        return false
+</body>
+<html></html>
